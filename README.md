@@ -1,2 +1,2 @@
 # Clinic-Management-System
-This is the desktop side(Staff side) for a clinic management system developed in 2017.
+Laurent Bleu Doctor Patient Appointment System (LBDPAS) is a Clinic Management SYstem developed for a university clinic to maintain appointments and medical history. The project was developed using PHP and Java for different platforms such as Android and desktop. This repository contain the desktop side of the project. 
